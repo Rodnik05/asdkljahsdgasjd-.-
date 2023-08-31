@@ -9,7 +9,7 @@
 
 ### Инопланетяне выглядят так:
 
-![Aliens_v8](https://github.com/Rodnik05/Tinkoff_Sirius_ML_2023_CV/assets/89382155/de20c491-c614-4913-ad3a-1b72a81567a0)
+![Aliens_v8](https://github.com/Rodnik05/asdkljahsdgasjd-.-/assets/89382155/827d534f-95a9-4107-a381-93fd1c7e91e0)
 
 
 #### Что же из этого следует?
@@ -21,9 +21,7 @@
 
 ### Идеальный отелья для инопланетянина выглядит так:
 
-![PerfectHotelForAliens_v1](https://github.com/Rodnik05/Tinkoff_Sirius_ML_2023_CV/assets/89382155/3dc4572d-e5b9-4e41-b436-eb918aad5b28)
-
-
+![PerfectHotelForAliens_v1](https://github.com/Rodnik05/asdkljahsdgasjd-.-/assets/89382155/1d58e743-1e6c-4760-957e-cd35336ff552)
 
 ## Изучение датасета фотографий
 
